@@ -888,7 +888,6 @@ export default function Home() {
                                                                     className="form-check-input"
                                                                     type="checkbox"
                                                                     defaultValue=""
-                                                                    defaultChecked=""
                                                                 />
                                                             </div>
                                                         </span>
@@ -911,7 +910,6 @@ export default function Home() {
                                                                     className="form-check-input"
                                                                     type="checkbox"
                                                                     defaultValue=""
-                                                                    defaultChecked=""
                                                                 />
                                                             </div>
                                                         </span>
@@ -956,7 +954,6 @@ export default function Home() {
                                                                     className="form-check-input"
                                                                     type="checkbox"
                                                                     defaultValue=""
-                                                                    defaultChecked=""
                                                                 />
                                                             </div>
                                                         </span>
