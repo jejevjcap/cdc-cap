@@ -1,4 +1,3 @@
-import Script from 'next/script';
 export default function Login() {
     return (
         <div className="app app-auth-sign-in align-content-stretch d-flex flex-wrap justify-content-end">
