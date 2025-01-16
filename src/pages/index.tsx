@@ -1,6 +1,7 @@
 export default function Home() {
     return (
         <>
+            {/* eslint-disable react/no-unescaped-entities */}
             <div className="app align-content-stretch d-flex flex-wrap">
                 <div className="app-sidebar">
                     <div className="logo">
@@ -1621,7 +1622,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-            {/* Javascripts */}
+            {/* eslint-disable react/no-unescaped-entities */}
         </>
     )
 }

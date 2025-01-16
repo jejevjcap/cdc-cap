@@ -1,5 +1,7 @@
+{/* eslint-disable react/no-unescaped-entities */ }
 export default function Login() {
     return (
+
         <div className="app app-auth-sign-in align-content-stretch d-flex flex-wrap justify-content-end">
             <div className="app-auth-background"></div>
             <div className="app-auth-container">
